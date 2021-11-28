@@ -1,4 +1,4 @@
-<p align="center">![Logo](https://twitter.com/BronGhast014/photo)</p>
+<img src="https://cdn.discordapp.com/attachments/539945121265877013/914583149667815434/newGhast_-_small.png" width="200" height="200" />
 
 ## Hi Im BronGhast!
 I am a Minecraft content creator on YouTube, I use [Atom](atom.io) and [Blockbench](https://www.blockbench.net/) to create datapacks!
